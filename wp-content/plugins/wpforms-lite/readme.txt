@@ -2,7 +2,7 @@
 Contributors: wpforms, jaredatch, smub, slaFFik
 Tags: contact form, contact form plugin, forms, form builder, custom form, contact button, contact me, custom contact form, form manager, form, forms builder, forms creator, captcha, recaptcha, Akismet, email form, web form, feedback form, payment form, survey form, donation form, email submit form, message form, mailchimp, mailchimp form, aweber, aweber form, paypal, paypal form, stripe, stripe form, getresponse, getresponse form, email subscription, contact form widget, user registration form, wordpress registration, wordpress login form
 Requires at least: 4.6
-Tested up to: 4.9
+Tested up to: 4.9.1
 Stable tag: trunk
 Requires PHP: 5.2.4
 License: GNU General Public License v2.0 or later
@@ -210,8 +210,11 @@ Syed Balkhi
 
 == Changelog ==
 
+= 1.4.2.2 =
+- Changed: Announcement feed data
+
 = 1.4.2.1 =
-- Added: Setting to hide Announcement feed
+- Changed: Setting to hide Announcement feed
 
 = 1.4.2 =
 - Added: Import your old Ninja Forms or Contact Form 7 forms! (WPForms > Tools > Import)

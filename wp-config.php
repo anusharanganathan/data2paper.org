@@ -79,7 +79,6 @@ $table_prefix  = 'testd2p_';
  */
 define('WP_DEBUG', false);
 define( 'WP_MEMORY_LIMIT', '128M' );
-define( 'WP_AUTO_UPDATE_CORE', false );
 
 /* That's all, stop editing! Happy blogging. */
 
@@ -92,3 +91,6 @@ require_once(ABSPATH . 'wp-settings.php');
 
 # define('WP_HOME','http://77.104.180.122/~data2pap/');
 # define('WP_SITEURL','http://77.104.180.122/~data2pap/');
+
+# Disables all core updates. Added by SiteGround Autoupdate:
+define( 'WP_AUTO_UPDATE_CORE', false );

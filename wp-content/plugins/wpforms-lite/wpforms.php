@@ -5,7 +5,7 @@
  * Description: Beginner friendly WordPress contact form plugin. Use our Drag & Drop form builder to create your WordPress forms.
  * Author:      WPForms
  * Author URI:  https://wpforms.com
- * Version:     1.4.2.1
+ * Version:     1.4.2.2
  * Text Domain: wpforms
  * Domain Path: languages
  *
@@ -90,7 +90,7 @@ if ( class_exists( 'WPForms' ) ) {
 		 *
 		 * @var string
 		 */
-		public $version = '1.4.2.1';
+		public $version = '1.4.2.2';
 
 		/**
 		 * The form data handler instance.

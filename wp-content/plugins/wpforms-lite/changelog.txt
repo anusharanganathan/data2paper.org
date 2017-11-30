@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.4.2.2 =
+- Changed: Announcement feed data
+
 = 1.4.2.1 =
 - Added: Setting to hide Announcement feed
 
